@@ -1,1 +1,25 @@
 What we are going to cover?
+1. What is TypeScript? Why it is introduced?
+2. How to install and write our first code.
+3. Variables and Types in TypeScript
+4. Functions
+
+--------------------------------------------------------------------
+
+TypeScript is a programming language. Superset of JavaScript.
+1. Open Source and maintained by Micorsoft.
+2. Static type 
+
+
+1. Google => nodejs => install
+2. Git install => git window git  npm install
+3. run command on command line npm install -g typescript  //
+4. tsc -v //version 4.
+
+Advantages:-
+1.less buggy
+2. more cleaner code.
+3. inference 
+
+ 
+
